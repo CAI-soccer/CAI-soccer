@@ -1,10 +1,4 @@
 ## Hi there 👋
-
-<!--
-**CAI-soccer/CAI-soccer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Pusan National University.
 - 🌱 I’m currently learning R programing and statistic things
 - 👯 I’m looking to collaborate on soccer analysis.
